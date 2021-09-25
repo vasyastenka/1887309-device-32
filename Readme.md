@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Анастасия](https://up.htmlacademy.ru/htmlcss/32/user/1887309).
-* Наставник: *Геннадий Максимов*.
+* Наставник: [Геннадий Максимов](https://htmlacademy.ru/profile/gennadiy).
 
 ---
 
